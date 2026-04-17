@@ -58,4 +58,4 @@ The system ensures:
 - Data pipeline integration for insights
 
 ## 🔗 Repository
-[Access the project here](COLOQUE_SEU_LINK_PUBLICO_AQUI)
+[Access the project here] https://github.com/arthurczo/JustDoApp.git
